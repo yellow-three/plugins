@@ -1,0 +1,7 @@
+repo: https://github.com/yellow-three/lerd-plugin-db-pull
+commit: d8c3e8e736001af0fa08765d01af8616a5e9c5f3
+author: yellow-three
+description: Pull a site's database from a staging or production server over SSH, with personal data masked on the way in
+category: Migration
+tags: [database, mysql, postgres, ssh, staging, anonymize]
+images: [docs/tab.png, docs/tab-dark.png]
